@@ -1,0 +1,6 @@
+Modelo,N_Clusters,Ruído,Silhouette,Davies-Bouldin,Calinski-Harabasz
+K-Means (k=4),4,0,0.3084,1.1026,1278.93
+Affinity Prop. (p=q5%),87,0,0.2488,1.0019,531.74
+"Hierárquico (Ward, k=4)",4,0,0.2617,1.2569,1115.57
+Gaussian Mixture (k=4),4,0,0.2855,1.2339,1096.27
+"DBSCAN (eps=0.5, ms=20)",5,1127,0.4321,0.7863,704.92
